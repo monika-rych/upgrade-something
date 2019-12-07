@@ -11,7 +11,5 @@ public class Test {
 	}
 		public static void print2(){
 		System.out.printlane("cos")
-		//cos
-		//aaaaa
 	}
 }

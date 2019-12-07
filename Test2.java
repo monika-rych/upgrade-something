@@ -3,5 +3,10 @@ public class Test {
         for (String s: args) {
             System.out.println(s);
         }
+		print();
     }
+	
+	public static void print(){
+		System.out.printlane("cos")
+	}
 }
